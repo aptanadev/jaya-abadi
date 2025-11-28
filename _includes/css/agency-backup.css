@@ -876,8 +876,8 @@ body {
 
 .policy-wrapper,
 .terms-wrapper {
-  margin: 4rem; /* 4rem left and right margin */
-  padding: 56px;
+  margin: 0 4rem; /* 4rem left and right margin */
+  padding: 40px;
   background: #fff;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
