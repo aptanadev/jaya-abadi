@@ -5,84 +5,67 @@ date: 2025-11-28
 categories: policy
 ---
 
-## 1. Agreement to Terms
+## 1. Pengenalan
 
-By accessing and using Jaya Abadi's website and services, you agree to be bound by these Terms of Conditions. If you do not agree to these terms, please do not use our services.
+Dengan mengakses atau menggunakan Situs kami, Anda ("Pengguna", "Anda") setuju untuk terikat oleh syarat & ketentuan berikut ("Ketentuan"), serta kebijakan privasi kami di atas. Jika Anda tidak setuju, mohon untuk tidak menggunakan Situs ini.
 
-## 2. Products and Services
+## 2. Layanan & Produk
 
-Jaya Abadi provides nutrition products including infant formula and grow-up milk. We strive to ensure:
+- Situs menyediakan layanan dan/atau produk melalui toko fisik dan/atau e-commerce ("Layanan").
+- Pengguna memahami bahwa adanya variasi warna, ukuran, tampilan layar dapat menyebabkan tampilan produk sedikit berbeda dari kenyataan.
 
-- All products are authentic and properly stored
-- Product information is accurate to the best of our knowledge
-- Products meet Indonesian food safety standards (BPOM)
-- Expiry dates are clearly stated and monitored
+## 3. Akun Pengguna
 
-## 3. Orders and Payments
+- Untuk menggunakan beberapa fitur, Anda mungkin diminta membuat akun. Anda bertanggung jawab menjaga kerahasiaan kredensial akun tersebut.
+- Anda setuju untuk memberi informasi yang benar, akurat dan mutakhir. Kami berhak menangguhkan atau menghentikan akun jika ditemukan penyalahgunaan.
 
-**3.1 Order Placement:** By placing an order, you confirm that all information provided is accurate and complete.
+## 4. Pesanan, Pembayaran & Pengiriman
 
-**3.2 Payment:** We accept various payment methods. Payment must be completed before order dispatch.
+- Setelah penawaran atau produk dipilih, pembayaran harus dilakukan sesuai metode yang tersedia.
+- Kami akan mengirim produk ke alamat yang Anda berikan. Anda bertanggung jawab memastikan alamat adalah benar dan lengkap.
+- Waktu pengiriman bersifat estimasi dan dapat berbeda tergantung kondisi logistik, wilayah, cuaca, dan faktor lainnya.
 
-**3.3 Pricing:** Prices are subject to change without notice. The price at the time of order confirmation will apply.
+## 5. Harga & Ketersediaan
 
-**3.4 Order Confirmation:** You will receive order confirmation via WhatsApp or email.
+- Harga dan ketersediaan produk dapat berubah tanpa pemberitahuan sebelumnya.
+- Kami berusaha menampilkan informasi seakurat mungkin, namun tidak menjamin bahwa semua produk selalu tersedia.
 
-## 4. Delivery and Shipping
+## 6. Pengembalian, Pembatalan dan Refund
 
-We offer the following delivery options:
+- Kebijakan pengembalian, pembatalan, atau refund akan mengikuti syarat yang berlaku (harus diklarifikasi lebih lanjut oleh klien).
+  
+  **Contoh**: Produk cacat atau rusak dapat dikembalikan dalam 7 hari kerja setelah penerimaan, dengan syarat bukti pembelian dan kondisi asli barang.
 
-- **Store Pickup**: Available at our 3 physical locations in Surakarta and Karanganyar
-- **Local Delivery**: Within Solo Raya area, delivery time 1-2 business days
-- **E-commerce Platforms**: Through Shopee, Blibli, Tokopedia, TikTok Shop with their respective shipping terms
+- Pengguna bertanggung jawab atas biaya pengembalian barang kecuali disepakati lain.
 
-Delivery times are estimates and not guaranteed. We are not liable for delays caused by third-party delivery services or unforeseen circumstances.
+## 7. Konten Situs
 
-## 5. Returns and Refunds
+- Semua konten di Situs (teks, gambar, logo, video, grafik) adalah milik kami atau pemegang lisensinya, dilindungi oleh hak cipta dan/atau undang-undang lain.
+- Anda tidak boleh menyalin, memodifikasi, mendistribusikan konten tanpa izin tertulis dari kami.
 
-**5.1 Return Eligibility:**
-- Products must be unopened and in original packaging
-- Return request must be made within 24 hours of delivery
-- Products damaged during shipping must be reported immediately with photographic evidence
-- Products purchased on sale or promotion may not be eligible for return
+## 8. Tautan ke Situs Pihak Ketiga
 
-**5.2 Return Process:** Contact us within 24 hours of delivery with photos of the product issue.
+- Situs ini mungkin memuat tautan ke situs web pihak ketiga yang tidak kami kontrol. Kami tidak bertanggung jawab atas konten, praktik privasi atau kerugian yang timbul dari situs tersebut.
 
-**5.3 Refund Timeline:** Approved refunds will be processed within 7-14 business days.
+## 9. Penafian Garansi & Batasan Tanggung Jawab
 
-## 6. Product Disclaimer
+- Semua layanan disediakan "sebagaimana adanya" tanpa jaminan apapun. Kami tidak menjamin layanan akan tanpa kesalahan, aman, atau bebas virus.
+- Kami tidak bertanggung jawab atas kerugian langsung atau tidak langsung yang mungkin timbul dari penggunaan atau ketidakmampuan menggunakan Situs atau produk kami, kecuali sebagaimana diatur oleh undang-undang yang berlaku.
 
-Infant formula and nutrition products should be used as directed. We recommend:
+## 10. Perubahan Ketentuan
 
-- Consulting with healthcare professionals before use
-- Following manufacturer's instructions carefully
-- Storing products according to package directions
-- Checking expiry dates before consumption
+Kami berhak memodifikasi Ketentuan ini kapan saja. Perubahan berlaku sejak diposting di Situs. Disarankan Anda memeriksa secara berkala.
 
-## 7. Intellectual Property
+## 11. Hukum yang Mengatur
 
-All content on our website, social media, and marketing materials is owned by Jaya Abadi or licensed to us. Unauthorized use is prohibited.
+Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Republik Indonesia. Setiap perselisihan terkait Ketentuan ini akan diselesaikan melalui pengadilan yang kompeten di tempat domisili kami.
 
-## 8. Limitation of Liability
+## 12. Hubungi Kami
 
-Jaya Abadi is not liable for:
+Jika Anda mempunyai pertanyaan atau membutuhkan klarifikasi mengenai Ketentuan ini, silakan hubungi:
 
-- Allergic reactions or adverse effects from product use
-- Delays or failures in delivery due to third parties
-- Issues arising from improper product storage or use
-- Indirect or consequential damages
+**Jaya Abadi Besly**
 
-## 9. Governing Law
-
-These Terms of Conditions are governed by the laws of the Republic of Indonesia. Any disputes will be resolved in the courts of Surakarta, Central Java.
-
-## 10. Contact Information
-
-For questions about these terms, please contact us:
-
-- **WhatsApp**: [085729649023](https://wa.me/6285729649023)
-- **Instagram**: [@jayaabadisolo](https://instagram.com/jayaabadisolo)
-- **Physical Stores**:
-  1. Jl. Urip Sumoharjo 61, Kepatihan Wetan, Jebres, Surakarta
-  2. Jl. Jaya Wijaya 28, Mojosongo, Jebres, Surakarta
-  3. Jl. Ahmad Yani RT06/RW07, Papahan, Tasikmadu, Karanganyar
+- **Alamat**: Jl. Urip Sumoharjo 61, Kepatihan Wetan, Jebres, Surakarta, Jawa Tengah
+- **Email**: [cv.jayaabadisolo@gmail.com](mailto:cv.jayaabadisolo@gmail.com)
+- **Telepon/WA**: [0858 6539 7475](https://wa.me/6285865397475)
